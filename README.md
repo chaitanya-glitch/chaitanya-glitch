@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chaitanya-glitch
+- 👀 I’m interested in blockchains and the whole concept which runs behind it. 
+- 🌱 I’m currently learning to create smart contracts and more intuitive learning about blockchains andc crypto
+- 💞️ I’m looking to collaborate on blockchain application projects
+- 📫 How to reach me , : You can reach me on my gmail which  is Flenser2006@gmail.com
